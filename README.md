@@ -1,5 +1,3 @@
-# 2048-Game-in-Excel
-
 # 2048 in Excel (VBA Edition)
 
 This project is a recreation of the popular game **2048** — but built entirely using **Excel and VBA macros**! Move the tiles with your arrow keys, combine matching numbers, and try to reach the elusive 2048 tile.
