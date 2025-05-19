@@ -67,9 +67,8 @@ You can easily tweak the game by:
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/4d90ce0a-4588-4ec8-a634-33b6695b5699)
 ![image](https://github.com/user-attachments/assets/76655f04-0181-4bba-bb18-e1741e77bee1)
-![image](https://github.com/user-attachments/assets/6b7f3d3a-558b-4639-b804-de46b619a0f9)
+![image](https://github.com/user-attachments/assets/9c071509-7daf-4632-a524-13334694e1a1)
 ![image](https://github.com/user-attachments/assets/6654ec2f-82ae-4738-8c87-9fa7c0ba12d3)
-
 
 ---
 
